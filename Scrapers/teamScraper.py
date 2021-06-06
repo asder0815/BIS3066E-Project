@@ -5,6 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 
 #urls to scrape
+#example: https://escharts.com/teams/lol/dig
 urls = []
 
 #read urls

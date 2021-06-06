@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 #urls to scrape
+#example: https://lol.fandom.com/wiki/LEC/2020_Season/Spring_Playoffs
 urls = []
 
 #read urls

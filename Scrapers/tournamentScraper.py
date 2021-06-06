@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 urls = []
 
 #read urls
-with open('urls.txt',"r") as f:
+with open('tournamenturls.txt',"r") as f:
     urls = f.readlines()
     urls = [x.strip() for x in urls]
     f.close()
@@ -61,12 +61,13 @@ for url in urls:
                         dataset = result[specialrowaddto - 1]
                         dataset[lastheader].append((cell.text.strip().encode('ascii', 'ignore')).decode("utf-8").replace(' ', '').replace('\n', '').replace('\r', ''))
                 export.append({url: result})
-        tourneylist.append(url[:30])
+        tourneylist.append(url[27:])
     except: 
         print('ERROR with ' + url)
 
 cleanedData = []
 for tourney in tourneylist: 
+    print(tourney); 
     tourneyresult = {tourney: []}
     urlname = ''
     for url in urls: 
@@ -98,5 +99,5 @@ for tourney in tourneylist:
                 tourneyresult[tourney].append(dataset)
     cleanedData.append(tourneyresult)
 
-with io.open('data.json', 'w', encoding='utf-8') as outputfile:
+with io.open('tournamentdata.json', 'w', encoding='utf-8') as outputfile:
     json.dump(cleanedData, outputfile, ensure_ascii=False, indent=4)

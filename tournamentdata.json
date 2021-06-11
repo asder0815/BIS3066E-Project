@@ -1,0 +1,117 @@
+[
+    {
+        "LEC/2020_Season/Spring_Playoffs": [
+            
+            {
+                "place": "1",
+                "price": "80,000$86,999.73",
+                "teams": "G2Esports"
+            },
+            {
+                "place": "2",
+                "price": "50,000$54,374.83",
+                "teams": "Fnatic"
+            },
+            {
+                "place": "3",
+                "price": "30,000$32,624.90",
+                "teams": "MADLions"
+            },
+            {
+                "place": "4",
+                "price": "20,000$21,749.93",
+                "teams": "Origen"
+            },
+            {
+                "place": "5",
+                "price": "12,500$13,593.71",
+                "teams": "Rogue"
+            },
+            {
+                "place": "6",
+                "price": "7,500$8,156.23",
+                "teams": "MisfitsGaming"
+            }
+        ]
+    },
+    {
+        "LEC/2020_Season/Summer_Playoffs": [
+            
+            {
+                "place": "1",
+                "price": "80,000$94,211.20",
+                "teams": "G2Esports"
+            },
+            {
+                "place": "2",
+                "price": "50,000$58,882",
+                "teams": "Fnatic"
+            },
+            {
+                "place": "3",
+                "price": "30,000$35,329.20",
+                "teams": "Rogue"
+            },
+            {
+                "place": "4",
+                "price": "20,000$23,552.80",
+                "teams": "MADLions"
+            },
+            {
+                "place": "5",
+                "price": "12,500$14,720.50",
+                "teams": "Schalke04"
+            },
+            {
+                "place": "6",
+                "price": "7,500$8,832.30",
+                "teams": "SKGaming"
+            }
+        ]
+    },
+    {
+        "2019_Season_World_Championship": [
+            
+            {
+                "place": "1",
+                "price": "$834,375738,530.34",
+                "teams": "FunPlusPhoenix"
+            },
+            {
+                "place": "2",
+                "price": "$300,375265,870.92",
+                "teams": "G2Esports"
+            },
+            {
+                "place": "3-4",
+                "price": "$155,750137,859",
+                "teams": "InvictusGaming|SKTelecomT1"
+            },
+            {
+                "place": "5-8",
+                "price": "$89,00078,776.57",
+                "teams": "Griffin|Fnatic|Splyce|DAMWON"
+            },
+            {
+                "place": "9-12",
+                "price": "$50,062.5044,311.82",
+                "teams": "JTeam|Cloud9|RNG|TeamLiquid"
+            },
+            {
+                "place": "13-16",
+                "price": "$27,812.5024,617.68",
+                "teams": "GAMEsports|HKAttitude|ClutchGaming|ahqeSportsClub"
+            },
+            {
+                "place": "17-20",
+                "price": "$16,687.5014,770.61",
+                "teams": "LowkeyEsports|RoyalYouth|Isurus|UnicornsOfLove"
+            },
+            {
+                "place": "21-24",
+                "price": "$11,1259,847.07",
+                "teams": "DetonatioNFM|MAMMOTH|MEGA|FlamengoEsports"
+            }
+        ]
+    }
+]

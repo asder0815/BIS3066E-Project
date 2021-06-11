@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 urls = []
 
 #read urls
-with open('viewrshipurls.txt',"r") as f:
+with open('./../../viewrshipurls.txt',"r") as f:
     urls = f.readlines()
     urls = [x.strip() for x in urls]
     f.close()
@@ -30,25 +30,26 @@ for url in urls:
         table = soup.find(id='popular-matches')
         matches = table.find_all('div', class_='versus-block matches-data')
         for match in matches: 
-            matchdata = {}
-            teams = match.find_all('a', class_='name')
-            teamString = ''
-            teamCounter = 0
-            for team in teams:
-                if(teamCounter != 0):
-                    teamString = teamString + '|' + team.text.strip()
-                else: 
-                    teamString = teamString + team.text.strip()
-                teamCounter = teamCounter + 1
-            matchdata['teams'] = teamString
-            details = match.find(class_='versus-block-details')
-            viewers = details.find(class_='title').text.replace(" ", "")
-            matchdata['viewers'] = viewers
-            tourneyData['matches'].append(matchdata)
+            if match.has_attr('data-filter') and match['data-filter'] == 'total':
+                matchdata = {}
+                teams = match.find_all('a', class_='name')
+                teamString = ''
+                teamCounter = 0
+                for team in teams:
+                    if(teamCounter != 0):
+                        teamString = teamString + '|' + team.text.strip()
+                    else: 
+                        teamString = teamString + team.text.strip()
+                    teamCounter = teamCounter + 1
+                matchdata['teams'] = teamString
+                details = match.find(class_='versus-block-details')
+                viewers = details.find(class_='title').text.replace(" ", "")
+                matchdata['viewers'] = viewers
+                tourneyData['matches'].append(matchdata)
         print(tourneyData)
         export.append(tourneyData)
     except (error): 
         print('ERROR with ' + url)
         print(error)
-with io.open('viewershipdata.json', 'w', encoding='utf-8') as outputfile:
+with io.open('./src/assets/viewershipdata.json', 'w', encoding='utf-8') as outputfile:
     json.dump(export, outputfile, ensure_ascii=False, indent=4)

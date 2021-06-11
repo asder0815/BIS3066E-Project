@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 urls = []
 
 #read urls
-with open('tournamenturls.txt',"r") as f:
+with open('./../../tournamenturls.txt',"r") as f:
     urls = f.readlines()
     urls = [x.strip() for x in urls]
     f.close()
@@ -100,5 +100,5 @@ for tourney in tourneylist:
                 tourneyresult[tourney].append(dataset)
     cleanedData.append(tourneyresult)
 
-with io.open('tournamentdata.json', 'w', encoding='utf-8') as outputfile:
+with io.open('./src/assets/tournamentdata.json', 'w', encoding='utf-8') as outputfile:
     json.dump(cleanedData, outputfile, ensure_ascii=False, indent=4)

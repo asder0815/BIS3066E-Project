@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 urls = []
 
 #read urls
-with open('teamurls.txt',"r") as f:
+with open('./../../teamurls.txt',"r") as f:
     urls = f.readlines()
     urls = [x.strip() for x in urls]
     f.close()
@@ -36,8 +36,9 @@ for url in urls:
         teamData['team'] = teamName
         #get team winnings
         headerDetails = soup.find(class_='header-details')
-        teamWinnings = headerDetails.find_all(class_='header-details-detail')[0].find(class_='header-details-detail-subtitle').text.replace(" ", "").replace("$", "")
-        teamData['winnings'] = teamWinnings
+        if  len(headerDetails.find_all(class_='header-details-detail')) > 0:
+            teamWinnings = headerDetails.find_all(class_='header-details-detail')[0].find(class_='header-details-detail-subtitle').text.replace(" ", "").replace("$", "")
+            teamData['winnings'] = teamWinnings
         #get country
         teamCountry = soup.find(class_='location').find('span').text
         teamData['country'] = teamCountry
@@ -76,5 +77,5 @@ for url in urls:
     except (error): 
         print('ERROR with ' + url)
         print(error)
-with io.open('teamdata.json', 'w', encoding='utf-8') as outputfile:
+with io.open('./src/assets/teamdata.json', 'w', encoding='utf-8') as outputfile:
     json.dump(export, outputfile, ensure_ascii=False, indent=4)

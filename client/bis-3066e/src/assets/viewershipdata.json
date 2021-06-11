@@ -1,0 +1,819 @@
+[
+    {
+        "tournament": "https://escharts.com/tournaments/lol/na-lcs-summer-2018",
+        "matches": [
+            {
+                "teams": "C9|Liquid",
+                "viewers": "422310"
+            },
+            {
+                "teams": "TSM|C9",
+                "viewers": "351521"
+            },
+            {
+                "teams": "TSM|100T",
+                "viewers": "324484"
+            },
+            {
+                "teams": "Liquid|100T",
+                "viewers": "298866"
+            },
+            {
+                "teams": "TSM|FOX",
+                "viewers": "277684"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-summer-2019",
+        "matches": [
+            {
+                "teams": "C9|Liquid",
+                "viewers": "494765"
+            },
+            {
+                "teams": "Liquid|CG",
+                "viewers": "354179"
+            },
+            {
+                "teams": "TSM|CG",
+                "viewers": "273276"
+            },
+            {
+                "teams": "TSM|C9",
+                "viewers": "272904"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "270523"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-summer-2020",
+        "matches": [
+            {
+                "teams": "TSM|FQE",
+                "viewers": "545571"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "522747"
+            },
+            {
+                "teams": "TSM|C9",
+                "viewers": "516052"
+            },
+            {
+                "teams": "TSM|GGS",
+                "viewers": "490500"
+            },
+            {
+                "teams": "Liquid|FQE",
+                "viewers": "404333"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-2021-summer",
+        "matches": [
+            {
+                "teams": "C9|Liquid",
+                "viewers": "262025"
+            },
+            {
+                "teams": "FQE|EG",
+                "viewers": "256291"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "222946"
+            },
+            {
+                "teams": "TSM|GGS",
+                "viewers": "220599"
+            },
+            {
+                "teams": "C9|100T",
+                "viewers": "219377"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/na-lcs-spring-2018",
+        "matches": [
+            {
+                "teams": "Liquid|100T",
+                "viewers": "520211"
+            },
+            {
+                "teams": "CG|100T",
+                "viewers": "440942"
+            },
+            {
+                "teams": "TSM|CG",
+                "viewers": "413684"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "401730"
+            },
+            {
+                "teams": "100T|OpTic",
+                "viewers": "351697"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-spring-2019",
+        "matches": [
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "599813"
+            },
+            {
+                "teams": "TSM|C9",
+                "viewers": "415933"
+            },
+            {
+                "teams": "TSM|FOX",
+                "viewers": "355633"
+            },
+            {
+                "teams": "CLG|Liquid",
+                "viewers": "334320"
+            },
+            {
+                "teams": "Liquid|FQE",
+                "viewers": "319820"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-2020-spring",
+        "matches": [
+            {
+                "teams": "TSM|IMT",
+                "viewers": "387299"
+            },
+            {
+                "teams": "C9|FQE",
+                "viewers": "379426"
+            },
+            {
+                "teams": "TSM|FQE",
+                "viewers": "317686"
+            },
+            {
+                "teams": "TSM|EG",
+                "viewers": "306222"
+            },
+            {
+                "teams": "TSM|C9",
+                "viewers": "302743"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-spring-2021",
+        "matches": [
+            {
+                "teams": "C9|Liquid",
+                "viewers": "415731"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "341957"
+            },
+            {
+                "teams": "TSM|100T",
+                "viewers": "303485"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "298894"
+            },
+            {
+                "teams": "C9|Liquid",
+                "viewers": "284566"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/eu-lcs-summer-2018",
+        "matches": [
+            {
+                "teams": "Fnatic|S04",
+                "viewers": "488729"
+            },
+            {
+                "teams": "Fnatic|MSF",
+                "viewers": "301789"
+            },
+            {
+                "teams": "VIT|S04",
+                "viewers": "221228"
+            },
+            {
+                "teams": "VIT|MSF",
+                "viewers": "213424"
+            },
+            {
+                "teams": "G2|MSF",
+                "viewers": "210725"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-summer-2019",
+        "matches": [
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "841147"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "494671"
+            },
+            {
+                "teams": "Fnatic|S04",
+                "viewers": "316133"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "306402"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "288356"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-regional-finals-2019",
+        "matches": [
+            {
+                "teams": "SPY|Fnatic",
+                "viewers": "272228"
+            },
+            {
+                "teams": "SPY|Astralis",
+                "viewers": "190376"
+            },
+            {
+                "teams": "SPY|S04",
+                "viewers": "185127"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-summer-2020",
+        "matches": [
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "1002178"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "900377"
+            },
+            {
+                "teams": "G2|Rogue",
+                "viewers": "722977"
+            },
+            {
+                "teams": "Fnatic|Rogue",
+                "viewers": "557147"
+            },
+            {
+                "teams": "G2|MAD",
+                "viewers": "519833"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/eu-lcs-spring-2018",
+        "matches": [
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "546109"
+            },
+            {
+                "teams": "Fnatic|VIT",
+                "viewers": "311170"
+            },
+            {
+                "teams": "SPY|VIT",
+                "viewers": "280902"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "258782"
+            },
+            {
+                "teams": "H2k|Fnatic",
+                "viewers": "255126"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-spring-2019",
+        "matches": [
+            {
+                "teams": "G2|Astralis",
+                "viewers": "477666"
+            },
+            {
+                "teams": "Fnatic|Astralis",
+                "viewers": "451027"
+            },
+            {
+                "teams": "Fnatic|SK",
+                "viewers": "397020"
+            },
+            {
+                "teams": "SPY|Fnatic",
+                "viewers": "359009"
+            },
+            {
+                "teams": "G2|Astralis",
+                "viewers": "340431"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-spring-2020",
+        "matches": [
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "817397"
+            },
+            {
+                "teams": "G2|MAD",
+                "viewers": "492429"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "476170"
+            },
+            {
+                "teams": "G2|MAD",
+                "viewers": "459813"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "457589"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-spring-2021",
+        "matches": [
+            {
+                "teams": "MAD|Rogue",
+                "viewers": "831198"
+            },
+            {
+                "teams": "G2|Rogue",
+                "viewers": "690235"
+            },
+            {
+                "teams": "G2|MAD",
+                "viewers": "661213"
+            },
+            {
+                "teams": "G2|S04",
+                "viewers": "642872"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "582469"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lfl-2021-spring",
+        "matches": [
+            {
+                "teams": "Solary|Karmine",
+                "viewers": "194979"
+            },
+            {
+                "teams": "Solary|Karmine",
+                "viewers": "187094"
+            },
+            {
+                "teams": "MSFP|Karmine",
+                "viewers": "170011"
+            },
+            {
+                "teams": "MSFP|Karmine",
+                "viewers": "140908"
+            },
+            {
+                "teams": "VIT.B|Karmine",
+                "viewers": "137488"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/eu-masters-spring-2018",
+        "matches": [
+            {
+                "teams": "Astralis|Klik",
+                "viewers": "151763"
+            },
+            {
+                "teams": "Astralis|IHG",
+                "viewers": "137260"
+            },
+            {
+                "teams": "Astralis|MAD",
+                "viewers": "107331"
+            },
+            {
+                "teams": "Astralis|Klik",
+                "viewers": "85300"
+            },
+            {
+                "teams": "IHG|GOG",
+                "viewers": "78109"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-spring-2021",
+        "matches": [
+            {
+                "teams": "BTXL|Karmine",
+                "viewers": "377531"
+            },
+            {
+                "teams": "UCAM|Karmine",
+                "viewers": "282205"
+            },
+            {
+                "teams": "Karmine|SSU",
+                "viewers": "212157"
+            },
+            {
+                "teams": "mouz|BTXL",
+                "viewers": "181459"
+            },
+            {
+                "teams": "Karmine|BTS",
+                "viewers": "153080"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-summer-2020",
+        "matches": [
+            {
+                "teams": "GLegion|AGO.ROGUE",
+                "viewers": "93141"
+            },
+            {
+                "teams": "7PT|VGIA",
+                "viewers": "76270"
+            },
+            {
+                "teams": "K1CK.N|LDLC OL",
+                "viewers": "73180"
+            },
+            {
+                "teams": "GOG|FNC.R",
+                "viewers": "72663"
+            },
+            {
+                "teams": "mouz|IFG",
+                "viewers": "71933"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-spring-2020",
+        "matches": [
+            {
+                "teams": "K1CK.N|LDLC OL",
+                "viewers": "144347"
+            },
+            {
+                "teams": "VGIA|LDLC OL",
+                "viewers": "80857"
+            },
+            {
+                "teams": "MRDS|FNC.R",
+                "viewers": "79212"
+            },
+            {
+                "teams": "VGIA|AGO.ROGUE",
+                "viewers": "76725"
+            },
+            {
+                "teams": "K1CK.N|GOG",
+                "viewers": "76533"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-summer-2019",
+        "matches": [
+            {
+                "teams": "BIG|VGIA",
+                "viewers": "109458"
+            },
+            {
+                "teams": "VGIA|FNC.R",
+                "viewers": "69041"
+            },
+            {
+                "teams": "BIG|mouz",
+                "viewers": "51961"
+            },
+            {
+                "teams": "Defusekids|FNC.R",
+                "viewers": "47003"
+            },
+            {
+                "teams": "BIG|LDLC",
+                "viewers": "41463"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-summer-2019",
+        "matches": [
+            {
+                "teams": "BIG|VGIA",
+                "viewers": "109458"
+            },
+            {
+                "teams": "VGIA|FNC.R",
+                "viewers": "69041"
+            },
+            {
+                "teams": "BIG|mouz",
+                "viewers": "51961"
+            },
+            {
+                "teams": "Defusekids|FNC.R",
+                "viewers": "47003"
+            },
+            {
+                "teams": "BIG|LDLC",
+                "viewers": "41463"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-spring-2019",
+        "matches": [
+            {
+                "teams": "MSFP|SK Prime",
+                "viewers": "61037"
+            },
+            {
+                "teams": "FNC.R|Ventus",
+                "viewers": "53019"
+            },
+            {
+                "teams": "MAD|SVP",
+                "viewers": "52817"
+            },
+            {
+                "teams": "LDLC|SK Prime",
+                "viewers": "52562"
+            },
+            {
+                "teams": "MSFP|BIG",
+                "viewers": "52510"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-summer-2018",
+        "matches": [
+            {
+                "teams": "NiP|MAD",
+                "viewers": "77730"
+            },
+            {
+                "teams": "ESG|MAD",
+                "viewers": "70454"
+            },
+            {
+                "teams": "MAD|Gentside",
+                "viewers": "54550"
+            },
+            {
+                "teams": "ESG|OP",
+                "viewers": "51538"
+            },
+            {
+                "teams": "ESG|GOG",
+                "viewers": "49449"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/worlds-2018",
+        "matches": [
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2050475"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "1623765"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "1466056"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "1391921"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "1335753"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/2019-world-championship",
+        "matches": [
+            {
+                "teams": "T1|G2",
+                "viewers": "3985787"
+            },
+            {
+                "teams": "G2|FPX",
+                "viewers": "3700545"
+            },
+            {
+                "teams": "T1|SPY",
+                "viewers": "2518157"
+            },
+            {
+                "teams": "G2|DWGK",
+                "viewers": "2129507"
+            },
+            {
+                "teams": "IG|FPX",
+                "viewers": "2094802"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/2020-world-championship",
+        "matches": [
+            {
+                "teams": "SNG|DWGK",
+                "viewers": "3882252"
+            },
+            {
+                "teams": "G2|DWGK",
+                "viewers": "2713380"
+            },
+            {
+                "teams": "SNG|TES",
+                "viewers": "2477096"
+            },
+            {
+                "teams": "Fnatic|TES",
+                "viewers": "2422647"
+            },
+            {
+                "teams": "G2|Gen.G",
+                "viewers": "2312166"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/2017-world-championship",
+        "matches": [
+            {
+                "teams": "T1|SSG",
+                "viewers": "2102206"
+            },
+            {
+                "teams": "T1|RNG",
+                "viewers": "1614794"
+            },
+            {
+                "teams": "T1|MSF",
+                "viewers": "1521113"
+            },
+            {
+                "teams": "WE|C9",
+                "viewers": "1142654"
+            },
+            {
+                "teams": "SSG|WE",
+                "viewers": "1088053"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/worlds-2016",
+        "matches": [
+            {
+                "teams": "T1|SSG",
+                "viewers": "1620065"
+            },
+            {
+                "teams": "ROX.T|T1",
+                "viewers": "1131790"
+            },
+            {
+                "teams": "SSG|H2k",
+                "viewers": "1031763"
+            },
+            {
+                "teams": "T1|RNG",
+                "viewers": "580617"
+            },
+            {
+                "teams": "H2k|ANX",
+                "viewers": "516610"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/mid-season-invitational-2021",
+        "matches": [
+            {
+                "teams": "RNG|DWGK",
+                "viewers": "1839876"
+            },
+            {
+                "teams": "DWGK|MAD",
+                "viewers": "1492423"
+            },
+            {
+                "teams": "paiN|MAD",
+                "viewers": "1159827"
+            },
+            {
+                "teams": "DFM|DWGK",
+                "viewers": "1154924"
+            },
+            {
+                "teams": "C9|DWGK",
+                "viewers": "1144683"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/mid-season-invitational-2019",
+        "matches": [
+            {
+                "teams": "T1|G2",
+                "viewers": "1704326"
+            },
+            {
+                "teams": "IG|Liquid",
+                "viewers": "1356455"
+            },
+            {
+                "teams": "G2|Liquid",
+                "viewers": "1068721"
+            },
+            {
+                "teams": "T1|G2",
+                "viewers": "1048081"
+            },
+            {
+                "teams": "IG|SGB",
+                "viewers": "955932"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/2018-mid-season-invitational",
+        "matches": [
+            {
+                "teams": "RNG|DRX",
+                "viewers": "994093"
+            },
+            {
+                "teams": "Fnatic|EVOS",
+                "viewers": "774418"
+            },
+            {
+                "teams": "FW|DRX",
+                "viewers": "765613"
+            },
+            {
+                "teams": "FW|DRX",
+                "viewers": "730191"
+            },
+            {
+                "teams": "RNG|Fnatic",
+                "viewers": "727363"
+            }
+        ]
+    }
+]

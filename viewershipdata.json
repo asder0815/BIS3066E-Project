@@ -1,0 +1,7391 @@
+[
+    {
+        "tournament": "https://escharts.com/tournaments/lol/na-lcs-summer-2018",
+        "matches": [
+            {
+                "teams": "C9|Liquid",
+                "viewers": "422310"
+            },
+            {
+                "teams": "TSM|C9",
+                "viewers": "351521"
+            },
+            {
+                "teams": "TSM|100T",
+                "viewers": "324484"
+            },
+            {
+                "teams": "Liquid|100T",
+                "viewers": "298866"
+            },
+            {
+                "teams": "TSM|FOX",
+                "viewers": "277684"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-summer-2019",
+        "matches": [
+            {
+                "teams": "C9|Liquid",
+                "viewers": "494765"
+            },
+            {
+                "teams": "Liquid|CG",
+                "viewers": "354179"
+            },
+            {
+                "teams": "TSM|CG",
+                "viewers": "273276"
+            },
+            {
+                "teams": "TSM|C9",
+                "viewers": "272904"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "270523"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-summer-2020",
+        "matches": [
+            {
+                "teams": "TSM|FQE",
+                "viewers": "545571"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "522747"
+            },
+            {
+                "teams": "TSM|C9",
+                "viewers": "516052"
+            },
+            {
+                "teams": "TSM|GGS",
+                "viewers": "490500"
+            },
+            {
+                "teams": "Liquid|FQE",
+                "viewers": "404333"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-2021-summer",
+        "matches": [
+            {
+                "teams": "C9|Liquid",
+                "viewers": "262025"
+            },
+            {
+                "teams": "FQE|EG",
+                "viewers": "256291"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "222946"
+            },
+            {
+                "teams": "TSM|GGS",
+                "viewers": "220599"
+            },
+            {
+                "teams": "C9|100T",
+                "viewers": "219377"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/na-lcs-spring-2018",
+        "matches": [
+            {
+                "teams": "Liquid|100T",
+                "viewers": "520211"
+            },
+            {
+                "teams": "CG|100T",
+                "viewers": "440942"
+            },
+            {
+                "teams": "TSM|CG",
+                "viewers": "413684"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "401730"
+            },
+            {
+                "teams": "100T|OpTic",
+                "viewers": "351697"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-spring-2019",
+        "matches": [
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "599813"
+            },
+            {
+                "teams": "TSM|C9",
+                "viewers": "415933"
+            },
+            {
+                "teams": "TSM|FOX",
+                "viewers": "355633"
+            },
+            {
+                "teams": "CLG|Liquid",
+                "viewers": "334320"
+            },
+            {
+                "teams": "Liquid|FQE",
+                "viewers": "319820"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-2020-spring",
+        "matches": [
+            {
+                "teams": "TSM|IMT",
+                "viewers": "387299"
+            },
+            {
+                "teams": "C9|FQE",
+                "viewers": "379426"
+            },
+            {
+                "teams": "TSM|FQE",
+                "viewers": "317686"
+            },
+            {
+                "teams": "TSM|EG",
+                "viewers": "306222"
+            },
+            {
+                "teams": "TSM|C9",
+                "viewers": "302743"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lcs-spring-2021",
+        "matches": [
+            {
+                "teams": "C9|Liquid",
+                "viewers": "415731"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "341957"
+            },
+            {
+                "teams": "TSM|100T",
+                "viewers": "303485"
+            },
+            {
+                "teams": "TSM|Liquid",
+                "viewers": "298894"
+            },
+            {
+                "teams": "C9|Liquid",
+                "viewers": "284566"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/eu-lcs-summer-2018",
+        "matches": [
+            {
+                "teams": "Fnatic|S04",
+                "viewers": "488729"
+            },
+            {
+                "teams": "Fnatic|MSF",
+                "viewers": "301789"
+            },
+            {
+                "teams": "VIT|S04",
+                "viewers": "221228"
+            },
+            {
+                "teams": "VIT|MSF",
+                "viewers": "213424"
+            },
+            {
+                "teams": "G2|MSF",
+                "viewers": "210725"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-summer-2019",
+        "matches": [
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "841147"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "494671"
+            },
+            {
+                "teams": "Fnatic|S04",
+                "viewers": "316133"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "306402"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "288356"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-regional-finals-2019",
+        "matches": [
+            {
+                "teams": "SPY|Fnatic",
+                "viewers": "272228"
+            },
+            {
+                "teams": "SPY|Astralis",
+                "viewers": "190376"
+            },
+            {
+                "teams": "SPY|S04",
+                "viewers": "185127"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-summer-2020",
+        "matches": [
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "1002178"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "900377"
+            },
+            {
+                "teams": "G2|Rogue",
+                "viewers": "722977"
+            },
+            {
+                "teams": "Fnatic|Rogue",
+                "viewers": "557147"
+            },
+            {
+                "teams": "G2|MAD",
+                "viewers": "519833"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/eu-lcs-spring-2018",
+        "matches": [
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "546109"
+            },
+            {
+                "teams": "Fnatic|VIT",
+                "viewers": "311170"
+            },
+            {
+                "teams": "SPY|VIT",
+                "viewers": "280902"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "258782"
+            },
+            {
+                "teams": "H2k|Fnatic",
+                "viewers": "255126"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-spring-2019",
+        "matches": [
+            {
+                "teams": "G2|Astralis",
+                "viewers": "477666"
+            },
+            {
+                "teams": "Fnatic|Astralis",
+                "viewers": "451027"
+            },
+            {
+                "teams": "Fnatic|SK",
+                "viewers": "397020"
+            },
+            {
+                "teams": "SPY|Fnatic",
+                "viewers": "359009"
+            },
+            {
+                "teams": "G2|Astralis",
+                "viewers": "340431"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-spring-2020",
+        "matches": [
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "817397"
+            },
+            {
+                "teams": "G2|MAD",
+                "viewers": "492429"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "476170"
+            },
+            {
+                "teams": "G2|MAD",
+                "viewers": "459813"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "457589"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lec-spring-2021",
+        "matches": [
+            {
+                "teams": "MAD|Rogue",
+                "viewers": "831198"
+            },
+            {
+                "teams": "G2|Rogue",
+                "viewers": "690235"
+            },
+            {
+                "teams": "G2|MAD",
+                "viewers": "661213"
+            },
+            {
+                "teams": "G2|S04",
+                "viewers": "642872"
+            },
+            {
+                "teams": "G2|Fnatic",
+                "viewers": "582469"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/lfl-2021-spring",
+        "matches": [
+            {
+                "teams": "Solary|Karmine",
+                "viewers": "194979"
+            },
+            {
+                "teams": "Solary|Karmine",
+                "viewers": "187094"
+            },
+            {
+                "teams": "MSFP|Karmine",
+                "viewers": "170011"
+            },
+            {
+                "teams": "MSFP|Karmine",
+                "viewers": "140908"
+            },
+            {
+                "teams": "VIT.B|Karmine",
+                "viewers": "137488"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/eu-masters-spring-2018",
+        "matches": [
+            {
+                "teams": "Astralis|Klik",
+                "viewers": "151763"
+            },
+            {
+                "teams": "Astralis|IHG",
+                "viewers": "137260"
+            },
+            {
+                "teams": "Astralis|MAD",
+                "viewers": "107331"
+            },
+            {
+                "teams": "Astralis|Klik",
+                "viewers": "85300"
+            },
+            {
+                "teams": "IHG|GOG",
+                "viewers": "78109"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-spring-2021",
+        "matches": [
+            {
+                "teams": "BTXL|Karmine",
+                "viewers": "377531"
+            },
+            {
+                "teams": "UCAM|Karmine",
+                "viewers": "282205"
+            },
+            {
+                "teams": "Karmine|SSU",
+                "viewers": "212157"
+            },
+            {
+                "teams": "mouz|BTXL",
+                "viewers": "181459"
+            },
+            {
+                "teams": "Karmine|BTS",
+                "viewers": "153080"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-summer-2020",
+        "matches": [
+            {
+                "teams": "GLegion|AGO.ROGUE",
+                "viewers": "93141"
+            },
+            {
+                "teams": "7PT|VGIA",
+                "viewers": "76270"
+            },
+            {
+                "teams": "K1CK.N|LDLC OL",
+                "viewers": "73180"
+            },
+            {
+                "teams": "GOG|FNC.R",
+                "viewers": "72663"
+            },
+            {
+                "teams": "mouz|IFG",
+                "viewers": "71933"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-spring-2020",
+        "matches": [
+            {
+                "teams": "K1CK.N|LDLC OL",
+                "viewers": "144347"
+            },
+            {
+                "teams": "VGIA|LDLC OL",
+                "viewers": "80857"
+            },
+            {
+                "teams": "MRDS|FNC.R",
+                "viewers": "79212"
+            },
+            {
+                "teams": "VGIA|AGO.ROGUE",
+                "viewers": "76725"
+            },
+            {
+                "teams": "K1CK.N|GOG",
+                "viewers": "76533"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-summer-2019",
+        "matches": [
+            {
+                "teams": "BIG|VGIA",
+                "viewers": "109458"
+            },
+            {
+                "teams": "VGIA|FNC.R",
+                "viewers": "69041"
+            },
+            {
+                "teams": "BIG|mouz",
+                "viewers": "51961"
+            },
+            {
+                "teams": "Defusekids|FNC.R",
+                "viewers": "47003"
+            },
+            {
+                "teams": "BIG|LDLC",
+                "viewers": "41463"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-summer-2019",
+        "matches": [
+            {
+                "teams": "BIG|VGIA",
+                "viewers": "109458"
+            },
+            {
+                "teams": "VGIA|FNC.R",
+                "viewers": "69041"
+            },
+            {
+                "teams": "BIG|mouz",
+                "viewers": "51961"
+            },
+            {
+                "teams": "Defusekids|FNC.R",
+                "viewers": "47003"
+            },
+            {
+                "teams": "BIG|LDLC",
+                "viewers": "41463"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-spring-2019",
+        "matches": [
+            {
+                "teams": "MSFP|SK Prime",
+                "viewers": "61037"
+            },
+            {
+                "teams": "FNC.R|Ventus",
+                "viewers": "53019"
+            },
+            {
+                "teams": "MAD|SVP",
+                "viewers": "52817"
+            },
+            {
+                "teams": "LDLC|SK Prime",
+                "viewers": "52562"
+            },
+            {
+                "teams": "MSFP|BIG",
+                "viewers": "52510"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/european-masters-summer-2018",
+        "matches": [
+            {
+                "teams": "NiP|MAD",
+                "viewers": "77730"
+            },
+            {
+                "teams": "ESG|MAD",
+                "viewers": "70454"
+            },
+            {
+                "teams": "MAD|Gentside",
+                "viewers": "54550"
+            },
+            {
+                "teams": "ESG|OP",
+                "viewers": "51538"
+            },
+            {
+                "teams": "ESG|GOG",
+                "viewers": "49449"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/worlds-2018",
+        "matches": [
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "10992"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "9292"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "8139"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "6380"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "5995"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "853251"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "632863"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "625242"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "624599"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "621726"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2050475"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "1623765"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "1466056"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "1391921"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "1335753"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "174"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "53684"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "42696"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "41576"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "38998"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "37024"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "26768"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "23302"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "20023"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "18274"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "17791"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "5824"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "5147"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "4735"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "4727"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "4241"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "69704711"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "44682264"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "35415695"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "33207794"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "32756065"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "97233"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "85783"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "75364"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "67527"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "58472"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "58124"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "58076"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "50723"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "43359"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "38206"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "1895103"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1312691"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "1237894"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "1125504"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "1112245"
+            },
+            {
+                "teams": "",
+                "viewers": "5636"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "110823698"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "87355611"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "84555448"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "80925052"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "78481818"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "31903"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "19626"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "19263"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "13601"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "12539"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "9179"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "8320"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "7875"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "7275"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "6797"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "61804"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "60486"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "44315"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "38883"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "37964"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "250175"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "222313"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "210943"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "191654"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "189073"
+            },
+            {
+                "teams": "",
+                "viewers": "3323"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "10535072"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "2817953"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "2689695"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "2633720"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "2480649"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1733621"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "1490986"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "1208512"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "693867"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "598341"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1695"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "1428"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "1276"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "1233"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "1229"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "939496"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "794143"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "642183"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "640278"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "614281"
+            },
+            {
+                "teams": "",
+                "viewers": "6598"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "3305"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2885"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "2805"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "2026"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "1771"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "1762"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "9441606"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "9343570"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "8340647"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "7655911"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "7494641"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "10798210"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "10735442"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "9839079"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "8448429"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "8378568"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "44752"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "36436"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "22342"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "14595"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "1106"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "21550"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "17612"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "16291"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "16154"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "15349"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "11388323"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "3442552"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "3102098"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "2999587"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "2793980"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "37746"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "25393"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "25221"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "22930"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "22163"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "122251"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "94832"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "83666"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "76527"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "69309"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "44067"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "43349"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "41759"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "41056"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "39222"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "792651"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "646278"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "562923"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "541063"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "519976"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "14220"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "13985"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "13600"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "13371"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "13048"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "7866"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "7252"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "7019"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "6858"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "6677"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "30576"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "25864"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "24750"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "20295"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "18694"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "19605"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "16762"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "15979"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "15128"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "14868"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "205109017"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "148600887"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "129755903"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "129569056"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "126969610"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "1498432"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "1391872"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "1356604"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "1237941"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "1205377"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "58066"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "45863"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "31999"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "29583"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "28938"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "29026"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "27360"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "24873"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "23884"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "23836"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "190717"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "137601"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "114436"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "105244"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "95819"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "93007"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "67010"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "64525"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "58265"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "57097"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1101791"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "896998"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "810343"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "777910"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "670065"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "9538226"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "6956524"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "6914660"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "6905094"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "6830665"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "30576"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "25864"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "24750"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "20295"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "18694"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "48231"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "47921"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "45412"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "40021"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "35235"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "203150817"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "147408617"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "128610061"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "128361829"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "125782323"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "47491"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "40405"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "21890"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "4"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "72409145"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "45956040"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "36930554"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "34712078"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "33722540"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "223"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "214"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "189"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "188"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "184"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "110823698"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "87355611"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "84555448"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "80925052"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "78481818"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "782"
+            },
+            {
+                "teams": "",
+                "viewers": "668"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "398"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "264"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "7875"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "7135"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "5"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "4"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "12"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "64"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "74142"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "72262"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "62572"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "58871"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "58768"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "28933"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "19"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "18232"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "17184"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "16850"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "16736"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "14616"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "13550"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "10071"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "6664"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "4"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "3"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "13679"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "12644"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "12206"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "11133"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "10683"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "153"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "145"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "128"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "109"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "98"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "7"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "9468"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "8056"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "7056"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "324"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "48"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "94497"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "82603"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "78021"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "71546"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "69782"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "13849"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "10800"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "9172"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "3"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "2"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "573235"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "477576"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "423305"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "419071"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "393313"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "14220"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "13985"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "13600"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "13371"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "13048"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "24836"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "21246"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "17723"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "13562"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "12921"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "19682"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "18837"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "15937"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "15577"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "14534"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "153622"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "147000"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "144758"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "131277"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "128036"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "167512"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "18"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "20222"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "13863"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "13697"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "13013"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "12713"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "2316"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "2215"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "2201"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "2147"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "2065"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "10992"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "9292"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "8139"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "6380"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "5995"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "92"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "59"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "42"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "27"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "35848"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "34017"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "26200"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "22005"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "17210"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "6737"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "6520"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "3769"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "2"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "1"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "5127"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "5000"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "4918"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "4696"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "4631"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "4"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "2"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "2"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "1"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "1"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "5167"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "660"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "4"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "2"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "5070"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "5066"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "4274"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "4076"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "3876"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "97233"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "85783"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "75364"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "67527"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "58472"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "3107"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "2794"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "1991"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "1069"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "638"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "36328"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "31477"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "25094"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "19136"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "16185"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "10380"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "10221"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "10060"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "9956"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "8364"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "932"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "52300"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "39494"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "38137"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "30269"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "23557"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "2090"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "2018"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "2015"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "2003"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "1838"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "204"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "192"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "191"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "148"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "135"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "11529"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "10909"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "10576"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "9816"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "9432"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "8"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "8"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "6"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "4"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "4"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "47462"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "49"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "3"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "7"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "7"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "4"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "4"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "8902"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "7616"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "5871"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "5585"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "5302"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "21"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "649"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "597"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "76"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "31"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "10"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "9"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "3"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "2519"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2193"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "2047"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "1984"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "1953"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "1939"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "7898"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "7864"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "5715"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "9598"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "7866"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "4931"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "3588"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "1"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "4"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "3"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "3"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "2"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "1438"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "64"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "1"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "1"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "1"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "209095"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "199998"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "40"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "33"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "4"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "731"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "5"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "4"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "3"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "2"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "110396"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "106691"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "103997"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "102719"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "96617"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "26"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "3231"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "3145"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "2438"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "2190"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "2150"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "9087"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "5681"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "4417"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "4175"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "4011"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "1002"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "995"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "749"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "729"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "718"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "8"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "7"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "6"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "3"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "2"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "320545"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "14267"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "14242"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "13476"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "12282"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "11734"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "4341"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "1458"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "2"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "1"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "14996"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "14699"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "13459"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "12922"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "12497"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "827"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "337"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "5519"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "5292"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "5204"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "4512"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "3210"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "929"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "905"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "6"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "446"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "415"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "410"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "396"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "396"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "85811"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "84177"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "82095"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "79535"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "74896"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "18346"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "14361"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "13930"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "12194"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "11304"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "6799"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "6610"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "6544"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "6538"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "6367"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "9"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "4"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "4"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "2"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "58758"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "41466"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "11455"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "11130"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "10701"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "10199"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "9939"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "67"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "153"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "151"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "149"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "120"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "113"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "122"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "118"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "111"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "92"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "86"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "717"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "512"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "4"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "3"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "3"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "610"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "545"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "442"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "423"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "399"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "19551"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "16111"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "15279"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "14607"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "13316"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "19"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "36399"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "17982"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "5"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "2"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "567"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "14835"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "10585"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "9260"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "9250"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "8640"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "82846"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "81724"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "69459"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "69174"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "66105"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "19"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "10"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "10"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "8"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "6"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "5874"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "1358"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "178"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "2"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "146"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "6"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "5"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "4"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "3"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "2"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "11822"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "3"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "214467"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "103656"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "79557"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "76333"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "75353"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "80068"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "77861"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "77055"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "73161"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "71456"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "11188"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "5786"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "6"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "3"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "226857"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "219548"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "8141"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "7845"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "3485"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "861"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "404"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "396"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "382"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "361"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "349"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "214"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "168"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "163"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "147"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "138"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "8109"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "5833"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "5348"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "4571"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "4551"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "100"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "618"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "530"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "488"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "477"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "461"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "7487"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "10332"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "1264"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "1223"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "1190"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "1169"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "1151"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "20"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "29961"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "12949"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "22299"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "18709"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "18194"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "13054"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "12373"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "213249"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "422"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "389"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "2754"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "8"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "2026"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "552"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "10774"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "9497"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "8531"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "8452"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "8163"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "234489"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "25"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "20984"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "19599"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "19024"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "13575"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "13297"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "1"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "10776"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "9668"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "9210"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "9018"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "8209"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "5698"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "38205"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "34673"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "18"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "13"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "43594"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "42162"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "40076"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "35925"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "33505"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "17322"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "15596"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "15419"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "14297"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "13288"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "3"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "2"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "2"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "1"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "1"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "129855"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "110104"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "109449"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "100064"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "97111"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "1"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "21"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "13016"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "12950"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "12800"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "10025"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "8700"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "43852"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "38941"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "30164"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "26164"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "20924"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "4932"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "2909"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "62794"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "51016"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "49451"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "46273"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "43821"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "21518"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "18376"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "13957"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "13596"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "10625"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "509"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "477"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "445"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "430"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "375"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "508"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "12"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "7"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "5"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "3"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "3"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "1"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "1"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "93008"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "80606"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "68341"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "67012"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "58267"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "45"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "12942"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "12184"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "12110"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "11875"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "11727"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "4"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "3174"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "396"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "7"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "5"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "4"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "39"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "7"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2"
+            },
+            {
+                "teams": "",
+                "viewers": "42760"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "737"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "637"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "604"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "600"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "595"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "12625"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "7506"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2871"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "2377"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "2369"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "2103"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "2082"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "90119"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "89410"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "74824"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "68889"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "68379"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "57"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "50"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "49"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "33"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "13"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "140"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "134"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "121"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "117"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "113"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "77"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "6"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "4"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "4"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "4"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "2"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "2"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "25326"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "20988"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "20585"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "14459"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "14048"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2050475"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "1623765"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "1466056"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "1391921"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "1335753"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "49"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "3"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "79"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "54"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "6"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "4"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "266342"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "226484"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "158236"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "151890"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "122941"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "1771"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "1317"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "3"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "193742"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "154699"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "1762"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "2"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "9906"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "78196"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "46982"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "12"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "6"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "17272"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "16394"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "8334"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "5494"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "768"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "4546"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "4037"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "3753"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "3415"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "2870"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "131082"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "98614"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "92141"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "84008"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "79769"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "274"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "1"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "18301"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "17967"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "16272"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "15466"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "11700"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "12795"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "12661"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "11925"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "11307"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "10783"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "941"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "808"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "778"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "752"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "674"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "3698"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2767"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "941"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "30"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "14"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "1"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "1"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "1"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "28005"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "27233"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "26067"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "23766"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "19234"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "1826"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "1694"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "23"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "93"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "2894"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "62"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "6531"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "6329"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "5789"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "5392"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "5391"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "169862"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "144240"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "54"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "36"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "16"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "11"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "10"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "5"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "3"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "134964"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "134660"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "132187"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "131732"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "127197"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "22366"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "12854"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "12057"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "11477"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "10238"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "85"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "66"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "59"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "56"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "48"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "653"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "1"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "1"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "1"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "1"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "1"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "729"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "654"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "572"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "537"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "515"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "21308"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "1"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "5835"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "4680"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "4458"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "4409"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "4254"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "632"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "594"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "586"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "569"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "546"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "66165"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "57294"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "10"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "8"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "6"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "140657"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "139117"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "135953"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "131122"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "128688"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "29314"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "17431"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "17069"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "11889"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "11291"
+            },
+            {
+                "teams": "",
+                "viewers": "5636"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "508"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "502"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "487"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "474"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "457"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "61"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "58"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "48"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "47"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "44"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "28749"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "22869"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "20453"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "19329"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "16632"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "10235"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "6941"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "6603"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "4049"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "1416"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "6464"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "5042"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "3829"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "3229"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "3032"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "5452"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "5324"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "5223"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "5150"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "4687"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "581"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "553"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "535"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "523"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "493"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "54688"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "54170"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "8"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "5"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "6464"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "5042"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "3829"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "3229"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "3032"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "2805"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "6831"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "6322"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "5981"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "5956"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "5751"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "49133"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "30729"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "20583"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "7"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "1"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "6"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "4"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "2"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "2"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "1"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "3"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "2"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "1"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "96"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "30369"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "29921"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "29317"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "22107"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "18510"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "38914"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "15299"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "1353"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "1040"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "1"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "24465"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "9146"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "300038"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "287271"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "253639"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "242734"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "238867"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "55756"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "52135"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "49620"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "48805"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "47967"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "269745"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "171724"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "136324"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "114190"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "95376"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "316522"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "348"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "246"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "96"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "85"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "80"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "80"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "65"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "47350"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "41293"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "34841"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "29754"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "28508"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "6"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "4"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "3"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "2"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "2"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "58066"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "45863"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "31999"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "29583"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "28938"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "7"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "5"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "5"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "4"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "4"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "16"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "6688"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "2236"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "2224"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "2203"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "2155"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "2142"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "48044"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "34600"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "1677"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "1508"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "783"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "81"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "4"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "10"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "8"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "156062"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "148373"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "135885"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "132882"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "130268"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "17"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "15147"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "7"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "4"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "4"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "2"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "2"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "19"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "6"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "5"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "4"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "4"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "3"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "87331"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "70633"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "65128"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "63358"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "61852"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "3"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "2"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "2"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "2"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "2"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "21678"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "20238"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "15774"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "14353"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "13917"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "41554"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "502"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "15"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "1"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "1"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "69"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "61"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "59"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "59"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "58"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "875"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "844"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "787"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "771"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "680"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "130698"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "120648"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "116813"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "115036"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "112140"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "724"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "520"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "1"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "1"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "33824"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "32731"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "27924"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "24047"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "21413"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "13959"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "10964"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "5"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "3"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "5562"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "5053"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "4627"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "4483"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "4441"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "131"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "9538226"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "6956524"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "6914660"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "6905094"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "6830665"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "5299"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "4983"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "4841"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "4785"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "4339"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "9298"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "6293"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "277"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "40"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "16"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "3399"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "2619"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "2408"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "2396"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "1899"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "112146"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "111783"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "99055"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "91294"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "90242"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "28604"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "19793"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "18196"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "16539"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "16202"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "346"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "180635"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "530"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "36"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "43707"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "42089"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "36045"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "28102"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "25709"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "6478"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "5863"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "5793"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "5584"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "5517"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "24393"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "21767"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "20463"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "18168"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "15065"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "9442"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "8132"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "2"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "1"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "2529"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "2509"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "2277"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "2179"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "1827"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "23273"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "21302"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "13482"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "10530"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "9523"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "240"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "31"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "4325"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "2"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "227578"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "128827"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "121966"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "112149"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "104973"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "22965"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "18680"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "16321"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "15829"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "13107"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "412"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "385"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "375"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "359"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "322"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "2473"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "2267"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "2244"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "2183"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "2039"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "45602"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "8"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "7"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "5"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "5"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "5"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "50"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "91"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "86"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "82"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "75"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "74"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1154"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "1128"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "1041"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "933"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "889"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "2746"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "2657"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "2286"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "2197"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "2121"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "161905"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "113116"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "111574"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "109553"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "105464"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "194639"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "183711"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "176328"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "170234"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "155461"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "7271"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "5285"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "4311"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "4303"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "4053"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "7351"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "2885"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "2523"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "2001"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1914"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "1817"
+            },
+            {
+                "teams": "",
+                "viewers": "48166"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "5118"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "2380"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "902"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "32"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "12"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "3160"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "3102"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "3053"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "2937"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "2800"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "2"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "2"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "1"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "7149"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "5323"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "3747"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "2243"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "920"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "12916"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "12870"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "11240"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "9517"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "6923"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "4465"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "4176"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "4007"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "3897"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "3630"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "101"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "481"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "456"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "436"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "434"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "377"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "2"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "2"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "2"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "2"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "2"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "4261"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "475"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "433"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "431"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "416"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "396"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "41566"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "5996"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "403"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "392"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "382"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "364"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "342"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "5024"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "4124"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "937"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "778"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "693"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "675"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "638"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "11469"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "8450"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "7450"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "6628"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "6569"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "581"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "487"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "9"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "120"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "23"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "132901"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "122005"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "120449"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "115986"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "112943"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "2004"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "1962"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "1898"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "1823"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "1723"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "729"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "2"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "34457"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "26321"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "22893"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "22531"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "19062"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "8"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "4"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "1"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "15171"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "14407"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "12293"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "12115"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "9858"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "8338"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "6440"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "5501"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "5319"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "5261"
+            },
+            {
+                "teams": "",
+                "viewers": "6133"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "70458"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "66988"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "56004"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "48730"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "38094"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "921"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "351"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "5"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "3"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "19809"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "37061"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "3"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "7073"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "7054"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "3"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "5769"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "5555"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "4637"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "4260"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "4104"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "1059"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "667"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "623"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "592"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "518"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "64947"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "525"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "500"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "469"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "445"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "425"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "621"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "610"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "584"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "564"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "560"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "98049"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "91309"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "87485"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "85888"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "75361"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "186"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "29473"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "8"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "7"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "5"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "5"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "4"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "93"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "90"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "90"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "75"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "61"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "5769"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "5555"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "4637"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "4260"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "4104"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "25148"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "5"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1036"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "849"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "777"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "629"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "567"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "5766"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "1355"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "96109"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "73813"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "73757"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "73202"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "71644"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "4"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "4"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "4"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "3"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "3"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "6515"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "5937"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "4924"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "46"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "16"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "1480"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "4"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "7286"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "30675"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "17950"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "45692"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "39573"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "38619"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "33543"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "27281"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "22188"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "19282"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "5"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "5"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "2419"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "2113"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "2061"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "1998"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "1779"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "838"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "674"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "656"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "578"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "553"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "116057"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "76098"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "18"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "11"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "2884"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "14943"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "9238"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "8978"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "8629"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "8150"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "95623"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "74683"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "69965"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "66830"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "53642"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "87656"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "74365"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "6"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "5"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "4"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "13540"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "11643"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "11291"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "10021"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "9514"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "174"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "44195"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "29034"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "24761"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "20976"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "17271"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "39664"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "24293"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "6"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "4"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "173"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "172"
+            },
+            {
+                "teams": "G2|ASC",
+                "viewers": "161"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "155"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "155"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "703"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "3788"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "3610"
+            },
+            {
+                "teams": "Fnatic|C9",
+                "viewers": "1233"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "831"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "689"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "644"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "630"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "603"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "579"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "563"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "344"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "342"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "341"
+            },
+            {
+                "teams": "AFs|SGB",
+                "viewers": "268"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "250"
+            },
+            {
+                "teams": "G2|Infinity",
+                "viewers": "1047"
+            },
+            {
+                "teams": "SUP|GRex",
+                "viewers": "417"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "879"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "747"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "1229"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "1080"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "853"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "724"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "624"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "1695"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "462"
+            },
+            {
+                "teams": "IG|GRex",
+                "viewers": "388"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "347"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "333"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "331"
+            },
+            {
+                "teams": "G2|SUP",
+                "viewers": "862"
+            },
+            {
+                "teams": "EDG|Infinity",
+                "viewers": "775"
+            },
+            {
+                "teams": "DW|Infinity",
+                "viewers": "745"
+            },
+            {
+                "teams": "EDG|DW",
+                "viewers": "744"
+            },
+            {
+                "teams": "SUP|ASC",
+                "viewers": "709"
+            },
+            {
+                "teams": "FW|G2",
+                "viewers": "692"
+            },
+            {
+                "teams": "Fnatic|GRex",
+                "viewers": "625"
+            },
+            {
+                "teams": "IG|100T",
+                "viewers": "572"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "544"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "540"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "485"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "466"
+            },
+            {
+                "teams": "Fnatic|100T",
+                "viewers": "407"
+            },
+            {
+                "teams": "AFs|FW",
+                "viewers": "385"
+            },
+            {
+                "teams": "G2|SGB",
+                "viewers": "368"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "807"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "718"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "644"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "631"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "558"
+            },
+            {
+                "teams": "GMB|GRex",
+                "viewers": "1428"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "1073"
+            },
+            {
+                "teams": "GMB|KLG",
+                "viewers": "961"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "874"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "796"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "205109017"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "148600887"
+            },
+            {
+                "teams": "RNG|G2",
+                "viewers": "129755903"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "129569056"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "126969610"
+            },
+            {
+                "teams": "IG|G2",
+                "viewers": "1071"
+            },
+            {
+                "teams": "KT|EDG",
+                "viewers": "393"
+            },
+            {
+                "teams": "KT|Liquid",
+                "viewers": "361"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "337"
+            },
+            {
+                "teams": "Liquid|MAD",
+                "viewers": "307"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "263"
+            },
+            {
+                "teams": "",
+                "viewers": "641"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "1276"
+            },
+            {
+                "teams": "EDG|DFM",
+                "viewers": "614"
+            },
+            {
+                "teams": "EDG|Liquid",
+                "viewers": "615"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "603"
+            },
+            {
+                "teams": "GRex|100T",
+                "viewers": "572"
+            },
+            {
+                "teams": "RNG|VIT",
+                "viewers": "546"
+            },
+            {
+                "teams": "KT|MAD",
+                "viewers": "517"
+            },
+            {
+                "teams": "EDG|MAD",
+                "viewers": "650"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "616"
+            },
+            {
+                "teams": "FW|SGB",
+                "viewers": "579"
+            },
+            {
+                "teams": "AFs|G2",
+                "viewers": "567"
+            },
+            {
+                "teams": "RNG|C9",
+                "viewers": "533"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "22299"
+            },
+            {
+                "teams": "AFs|C9",
+                "viewers": "20065"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "15420"
+            },
+            {
+                "teams": "EDG|Fnatic",
+                "viewers": "15153"
+            },
+            {
+                "teams": "IG|Fnatic",
+                "viewers": "14776"
+            },
+            {
+                "teams": "VIT|Gen.G",
+                "viewers": "4603"
+            },
+            {
+                "teams": "KT|IG",
+                "viewers": "4563"
+            },
+            {
+                "teams": "RNG|Gen.G",
+                "viewers": "4531"
+            },
+            {
+                "teams": "C9|Gen.G",
+                "viewers": "4286"
+            },
+            {
+                "teams": "VIT|C9",
+                "viewers": "4161"
+            },
+            {
+                "teams": "GMB|C9",
+                "viewers": "864"
+            },
+            {
+                "teams": "DFM|C9",
+                "viewers": "566"
+            },
+            {
+                "teams": "KLG|GRex",
+                "viewers": "527"
+            },
+            {
+                "teams": "DFM|KaBuM!",
+                "viewers": "484"
+            },
+            {
+                "teams": "C9|KaBuM!",
+                "viewers": "483"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/2019-world-championship",
+        "matches": [
+            {
+                "teams": "T1|G2",
+                "viewers": "3985787"
+            },
+            {
+                "teams": "G2|FPX",
+                "viewers": "3700545"
+            },
+            {
+                "teams": "T1|SPY",
+                "viewers": "2518157"
+            },
+            {
+                "teams": "G2|DWGK",
+                "viewers": "2129507"
+            },
+            {
+                "teams": "IG|FPX",
+                "viewers": "2094802"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/2020-world-championship",
+        "matches": [
+            {
+                "teams": "SNG|DWGK",
+                "viewers": "3882252"
+            },
+            {
+                "teams": "G2|DWGK",
+                "viewers": "2713380"
+            },
+            {
+                "teams": "SNG|TES",
+                "viewers": "2477096"
+            },
+            {
+                "teams": "Fnatic|TES",
+                "viewers": "2422647"
+            },
+            {
+                "teams": "G2|Gen.G",
+                "viewers": "2312166"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/2017-world-championship",
+        "matches": [
+            {
+                "teams": "T1|SSG",
+                "viewers": "2102206"
+            },
+            {
+                "teams": "T1|RNG",
+                "viewers": "1614794"
+            },
+            {
+                "teams": "T1|MSF",
+                "viewers": "1521113"
+            },
+            {
+                "teams": "WE|C9",
+                "viewers": "1142654"
+            },
+            {
+                "teams": "SSG|WE",
+                "viewers": "1088053"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/worlds-2016",
+        "matches": [
+            {
+                "teams": "T1|SSG",
+                "viewers": "1620065"
+            },
+            {
+                "teams": "ROX.T|T1",
+                "viewers": "1131790"
+            },
+            {
+                "teams": "SSG|H2k",
+                "viewers": "1031763"
+            },
+            {
+                "teams": "T1|RNG",
+                "viewers": "580617"
+            },
+            {
+                "teams": "H2k|ANX",
+                "viewers": "516610"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/mid-season-invitational-2021",
+        "matches": [
+            {
+                "teams": "RNG|DWGK",
+                "viewers": "1839876"
+            },
+            {
+                "teams": "DWGK|MAD",
+                "viewers": "1492423"
+            },
+            {
+                "teams": "paiN|MAD",
+                "viewers": "1159827"
+            },
+            {
+                "teams": "DFM|DWGK",
+                "viewers": "1154924"
+            },
+            {
+                "teams": "C9|DWGK",
+                "viewers": "1144683"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/mid-season-invitational-2019",
+        "matches": [
+            {
+                "teams": "T1|G2",
+                "viewers": "1704326"
+            },
+            {
+                "teams": "IG|Liquid",
+                "viewers": "1356455"
+            },
+            {
+                "teams": "G2|Liquid",
+                "viewers": "1068721"
+            },
+            {
+                "teams": "T1|G2",
+                "viewers": "1048081"
+            },
+            {
+                "teams": "IG|SGB",
+                "viewers": "955932"
+            }
+        ]
+    },
+    {
+        "tournament": "https://escharts.com/tournaments/lol/2018-mid-season-invitational",
+        "matches": [
+            {
+                "teams": "RNG|DRX",
+                "viewers": "994093"
+            },
+            {
+                "teams": "Fnatic|EVOS",
+                "viewers": "774418"
+            },
+            {
+                "teams": "FW|DRX",
+                "viewers": "765613"
+            },
+            {
+                "teams": "FW|DRX",
+                "viewers": "730191"
+            },
+            {
+                "teams": "RNG|Fnatic",
+                "viewers": "727363"
+            }
+        ]
+    }
+]

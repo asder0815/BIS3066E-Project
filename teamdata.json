@@ -1,0 +1,1014 @@
+[
+    {
+        "team": "FlyQuest",
+        "winnings": "",
+        "country": "United States",
+        "sponsors": [],
+        "tournaments": [
+            {
+                "name": "LCS Summer 2021",
+                "viewers": "262025"
+            },
+            {
+                "name": "LCS Spring 2021",
+                "viewers": "415731"
+            },
+            {
+                "name": "LCS 2021 Lock In",
+                "viewers": "370801"
+            },
+            {
+                "name": "2020 World Championship [Worlds 2020]",
+                "viewers": "3882252"
+            },
+            {
+                "name": "LCS Summer 2020",
+                "viewers": "545571"
+            },
+            {
+                "name": "LCS Spring 2020",
+                "viewers": "387299"
+            },
+            {
+                "name": "LCS Regional Finals 2019",
+                "viewers": "148125"
+            },
+            {
+                "name": "LCS Summer 2019",
+                "viewers": "494765"
+            },
+            {
+                "name": "LCS Spring 2019",
+                "viewers": "599813"
+            },
+            {
+                "name": "NA LCS Summer 2018",
+                "viewers": "422310"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Dignitas",
+        "winnings": "HyperX•Champion•Verizon•RESPAWNProducts•SIG•VIEShowall",
+        "country": "United States",
+        "sponsors": [
+            "HyperX",
+            "Champion",
+            "Verizon",
+            "RESPAWN Products",
+            "SIG",
+            "VIE"
+        ],
+        "tournaments": [
+            {
+                "name": "LCS Summer 2021",
+                "viewers": "262025"
+            },
+            {
+                "name": "LCS Spring 2021",
+                "viewers": "415731"
+            },
+            {
+                "name": "LCS 2021 Lock In",
+                "viewers": "370801"
+            },
+            {
+                "name": "LCS Summer 2020",
+                "viewers": "545571"
+            },
+            {
+                "name": "LCS Spring 2020",
+                "viewers": "387299"
+            },
+            {
+                "name": "EU Masters Spring 2018",
+                "viewers": "151763"
+            },
+            {
+                "name": "LPL Spring Playoffs 2018",
+                "viewers": "95659"
+            },
+            {
+                "name": "Битва Университетов 2018",
+                "viewers": "20918"
+            },
+            {
+                "name": "Gamers Assembly 2018",
+                "viewers": "12123"
+            },
+            {
+                "name": "GPL Spring 2018",
+                "viewers": "10765"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Evil Geniuses",
+        "winnings": "MonsterEnergy•Twitch•Razer•SecretLab•LGElectronics•Motorola•Peak6•America'sNavyShowall",
+        "country": "United States",
+        "sponsors": [
+            "Monster Energy",
+            "Twitch",
+            "Razer",
+            "SecretLab",
+            "LG Electronics",
+            "Motorola",
+            "Peak6",
+            "America's Navy"
+        ],
+        "tournaments": [
+            {
+                "name": "LCS Summer 2021",
+                "viewers": "262025"
+            },
+            {
+                "name": "LCS Spring 2021",
+                "viewers": "415731"
+            },
+            {
+                "name": "LCS 2021 Lock In",
+                "viewers": "370801"
+            },
+            {
+                "name": "LCS Summer 2020",
+                "viewers": "545571"
+            },
+            {
+                "name": "LCS Spring 2020",
+                "viewers": "387299"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Cloud9",
+        "winnings": "1983216",
+        "country": "United States",
+        "sponsors": [
+            "Twitch",
+            "HyperX",
+            "Red Bull",
+            "Puma",
+            "SecretLab",
+            "Microsoft",
+            "AT&T",
+            "BMW"
+        ],
+        "tournaments": [
+            {
+                "name": "LCS Summer 2021",
+                "viewers": "262025"
+            },
+            {
+                "name": "Mid-Season Invitational 2021",
+                "viewers": "1839876"
+            },
+            {
+                "name": "LCS Spring 2021",
+                "viewers": "415731"
+            },
+            {
+                "name": "LCS 2021 Lock In",
+                "viewers": "370801"
+            },
+            {
+                "name": "LCS Summer 2020",
+                "viewers": "545571"
+            },
+            {
+                "name": "LCS Summer 2020 Classic Showmatch",
+                "viewers": "134546"
+            },
+            {
+                "name": "NA Pro Exhibition Matches 2020",
+                "viewers": "50804"
+            },
+            {
+                "name": "LCS Spring 2020",
+                "viewers": "387299"
+            },
+            {
+                "name": "2019 World Championship",
+                "viewers": "3985787"
+            },
+            {
+                "name": "LCS Summer 2019",
+                "viewers": "494765"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Immortals",
+        "winnings": "K-Swiss•GameStop•Toyota•FrontierCommunications•Ironclad•EATClubShowall",
+        "country": "United States",
+        "sponsors": [
+            "K-Swiss",
+            "GameStop",
+            "Toyota",
+            "Frontier Communications",
+            "Ironclad",
+            "EAT Club"
+        ],
+        "tournaments": [
+            {
+                "name": "LCS Summer 2021",
+                "viewers": "262025"
+            },
+            {
+                "name": "LCS Spring 2021",
+                "viewers": "415731"
+            },
+            {
+                "name": "LCS 2021 Lock In",
+                "viewers": "370801"
+            },
+            {
+                "name": "LCS Summer 2020",
+                "viewers": "545571"
+            },
+            {
+                "name": "LCS Spring 2020",
+                "viewers": "387299"
+            },
+            {
+                "name": "2017 World Championship",
+                "viewers": "2102206"
+            },
+            {
+                "name": "NA LCS Summer 2017",
+                "viewers": "451796"
+            },
+            {
+                "name": "NA LCS Spring 2017",
+                "viewers": "642535"
+            },
+            {
+                "name": "IEM Season XI Gyeonggi",
+                "viewers": "80039"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "TSM",
+        "winnings": "1734475",
+        "country": "United States",
+        "sponsors": [
+            "Logitech G",
+            "Twitch",
+            "Mountain Dew",
+            "GEICO",
+            "Lenovo",
+            "Grubhub"
+        ],
+        "tournaments": [
+            {
+                "name": "LCS Summer 2021",
+                "viewers": "262025"
+            },
+            {
+                "name": "LCS Spring 2021",
+                "viewers": "415731"
+            },
+            {
+                "name": "LCS 2021 Lock In",
+                "viewers": "370801"
+            },
+            {
+                "name": "2020 World Championship [Worlds 2020]",
+                "viewers": "3882252"
+            },
+            {
+                "name": "LCS Summer 2020",
+                "viewers": "545571"
+            },
+            {
+                "name": "LCS Summer 2020 Classic Showmatch",
+                "viewers": "134546"
+            },
+            {
+                "name": "NA Pro Exhibition Matches 2020",
+                "viewers": "50804"
+            },
+            {
+                "name": "LCS Spring 2020",
+                "viewers": "387299"
+            },
+            {
+                "name": "LCS Regional Finals 2019",
+                "viewers": "148125"
+            },
+            {
+                "name": "LCS Summer 2019",
+                "viewers": "494765"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Golden Guardians",
+        "winnings": "",
+        "country": "United States",
+        "sponsors": [],
+        "tournaments": [
+            {
+                "name": "LCS Summer 2021",
+                "viewers": "262025"
+            },
+            {
+                "name": "LCS Spring 2021",
+                "viewers": "415731"
+            },
+            {
+                "name": "LCS 2021 Lock In",
+                "viewers": "370801"
+            },
+            {
+                "name": "LCS Summer 2020",
+                "viewers": "545571"
+            },
+            {
+                "name": "LCS Spring 2020",
+                "viewers": "387299"
+            },
+            {
+                "name": "LCS Summer 2019",
+                "viewers": "494765"
+            },
+            {
+                "name": "LCS Spring 2019",
+                "viewers": "599813"
+            },
+            {
+                "name": "NA LCS Summer 2018",
+                "viewers": "422310"
+            },
+            {
+                "name": "NA LCS Spring 2018",
+                "viewers": "520211"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Counter Logic Gaming",
+        "winnings": "Twitch•MountainDew•Squarespace•Spectrum•GTOmegaRacing•NeweggShowall",
+        "country": "United States",
+        "sponsors": [
+            "Twitch",
+            "Mountain Dew",
+            "Squarespace",
+            "Spectrum",
+            "GT Omega Racing",
+            "Newegg"
+        ],
+        "tournaments": [
+            {
+                "name": "LCS Summer 2021",
+                "viewers": "262025"
+            },
+            {
+                "name": "LCS Spring 2021",
+                "viewers": "415731"
+            },
+            {
+                "name": "LCS 2021 Lock In",
+                "viewers": "370801"
+            },
+            {
+                "name": "LCS Summer 2020",
+                "viewers": "545571"
+            },
+            {
+                "name": "LCS Spring 2020",
+                "viewers": "387299"
+            },
+            {
+                "name": "LCS Regional Finals 2019",
+                "viewers": "148125"
+            },
+            {
+                "name": "LCS Summer 2019",
+                "viewers": "494765"
+            },
+            {
+                "name": "LCS Spring 2019",
+                "viewers": "599813"
+            },
+            {
+                "name": "NA LCS Summer 2018",
+                "viewers": "422310"
+            },
+            {
+                "name": "NA LCS Spring 2018",
+                "viewers": "520211"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Team Liquid",
+        "winnings": "1100463",
+        "country": "United States",
+        "sponsors": [
+            "Monster Energy",
+            "Twitch",
+            "HyperX",
+            "SecretLab",
+            "Alienware",
+            "SAP",
+            "Honda",
+            "Jersey Mike's Subs",
+            "Huya"
+        ],
+        "tournaments": [
+            {
+                "name": "LCS Summer 2021",
+                "viewers": "262025"
+            },
+            {
+                "name": "LCS Spring 2021",
+                "viewers": "415731"
+            },
+            {
+                "name": "LCS 2021 Lock In",
+                "viewers": "370801"
+            },
+            {
+                "name": "2020 World Championship [Worlds 2020]",
+                "viewers": "3882252"
+            },
+            {
+                "name": "LCS Summer 2020",
+                "viewers": "545571"
+            },
+            {
+                "name": "LCS Spring 2020",
+                "viewers": "387299"
+            },
+            {
+                "name": "2019 World Championship",
+                "viewers": "3985787"
+            },
+            {
+                "name": "LCS Summer 2019",
+                "viewers": "494765"
+            },
+            {
+                "name": "Rift Rivals 2019 NA-EU",
+                "viewers": "318708"
+            },
+            {
+                "name": "Mid-Season Invitational 2019",
+                "viewers": "1704326"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "G2 Esports",
+        "winnings": "2470612",
+        "country": "Europe",
+        "sponsors": [
+            "Logitech G",
+            "AOC",
+            "AORUS",
+            "Red Bull",
+            "SecretLab",
+            "BMW",
+            "Hdac Technology"
+        ],
+        "tournaments": [
+            {
+                "name": "LEC Spring 2021",
+                "viewers": "831198"
+            },
+            {
+                "name": "2020 World Championship [Worlds 2020]",
+                "viewers": "3882252"
+            },
+            {
+                "name": "LEC Summer 2020",
+                "viewers": "1002178"
+            },
+            {
+                "name": "EU Community Showdown 2020",
+                "viewers": "1870"
+            },
+            {
+                "name": "LEC Spring 2020",
+                "viewers": "817397"
+            },
+            {
+                "name": "2019 World Championship",
+                "viewers": "3985787"
+            },
+            {
+                "name": "LEC Summer 2019",
+                "viewers": "841147"
+            },
+            {
+                "name": "Rift Rivals 2019 NA-EU",
+                "viewers": "318708"
+            },
+            {
+                "name": "Mid-Season Invitational 2019",
+                "viewers": "1704326"
+            },
+            {
+                "name": "LEC Spring 2019",
+                "viewers": "477666"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Rogue",
+        "winnings": "195958",
+        "country": "Europe",
+        "sponsors": [
+            "HyperX",
+            "ReKTGlobal",
+            "Find Your Grind",
+            "KIA"
+        ],
+        "tournaments": [
+            {
+                "name": "LEC Spring 2021",
+                "viewers": "831198"
+            },
+            {
+                "name": "2020 World Championship [Worlds 2020]",
+                "viewers": "3882252"
+            },
+            {
+                "name": "LEC Summer 2020",
+                "viewers": "1002178"
+            },
+            {
+                "name": "EU Community Showdown 2020",
+                "viewers": "1870"
+            },
+            {
+                "name": "LEC Spring 2020",
+                "viewers": "817397"
+            },
+            {
+                "name": "LEC Summer 2019",
+                "viewers": "841147"
+            },
+            {
+                "name": "LEC Spring 2019",
+                "viewers": "477666"
+            },
+            {
+                "name": "Ultraliga Season 1",
+                "viewers": "19034"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "MAD Lions",
+        "winnings": "",
+        "country": "Spain",
+        "sponsors": [],
+        "tournaments": [
+            {
+                "name": "Mid-Season Invitational 2021",
+                "viewers": "1839876"
+            },
+            {
+                "name": "LEC Spring 2021",
+                "viewers": "831198"
+            },
+            {
+                "name": "2020 World Championship [Worlds 2020]",
+                "viewers": "3882252"
+            },
+            {
+                "name": "LEC Summer 2020",
+                "viewers": "1002178"
+            },
+            {
+                "name": "EU Community Showdown 2020",
+                "viewers": "1870"
+            },
+            {
+                "name": "LEC Spring 2020",
+                "viewers": "817397"
+            },
+            {
+                "name": "Iberian Cup 2019",
+                "viewers": "23326"
+            },
+            {
+                "name": "SuperLiga Orange Summer 2019",
+                "viewers": "57688"
+            },
+            {
+                "name": "European Masters Spring 2019",
+                "viewers": "61037"
+            },
+            {
+                "name": "SuperLiga Orange Spring 2019",
+                "viewers": "54936"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Schalke 04",
+        "winnings": "",
+        "country": "Europe",
+        "sponsors": [],
+        "tournaments": [
+            {
+                "name": "LEC Spring 2021",
+                "viewers": "831198"
+            },
+            {
+                "name": "LEC Summer 2020",
+                "viewers": "1002178"
+            },
+            {
+                "name": "EU Community Showdown 2020",
+                "viewers": "1870"
+            },
+            {
+                "name": "LEC Spring 2020",
+                "viewers": "817397"
+            },
+            {
+                "name": "LEC Regional Finals 2019",
+                "viewers": "272228"
+            },
+            {
+                "name": "LEC Summer 2019",
+                "viewers": "841147"
+            },
+            {
+                "name": "LEC Spring 2019",
+                "viewers": "477666"
+            },
+            {
+                "name": "EU Regional Finals 2018",
+                "viewers": "234636"
+            },
+            {
+                "name": "EU LCS Summer 2018",
+                "viewers": "488729"
+            },
+            {
+                "name": "EU LCS Spring 2018",
+                "viewers": "546109"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Fnatic",
+        "winnings": "2901706",
+        "country": "Europe",
+        "sponsors": [
+            "DXRacer",
+            "OnePlus",
+            "Monster Energy",
+            "AMD",
+            "Fnatic Gear",
+            "Parimatch",
+            "Letou",
+            "BMW",
+            "PCSpecialist"
+        ],
+        "tournaments": [
+            {
+                "name": "LEC Spring 2021",
+                "viewers": "831198"
+            },
+            {
+                "name": "2020 World Championship [Worlds 2020]",
+                "viewers": "3882252"
+            },
+            {
+                "name": "LEC Summer 2020",
+                "viewers": "1002178"
+            },
+            {
+                "name": "EU Community Showdown 2020",
+                "viewers": "1870"
+            },
+            {
+                "name": "LEC Spring 2020",
+                "viewers": "817397"
+            },
+            {
+                "name": "2019 World Championship",
+                "viewers": "3985787"
+            },
+            {
+                "name": "LEC Regional Finals 2019",
+                "viewers": "272228"
+            },
+            {
+                "name": "LEC Summer 2019",
+                "viewers": "841147"
+            },
+            {
+                "name": "Rift Rivals 2019 NA-EU",
+                "viewers": "318708"
+            },
+            {
+                "name": "LEC Spring 2019",
+                "viewers": "477666"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Misfits",
+        "winnings": "478268",
+        "country": "Europe",
+        "sponsors": [
+            "Alienware",
+            "Blinkfire Analytics",
+            "Miami Heat",
+            "Milk It!",
+            "Caffeine",
+            "Zipchair"
+        ],
+        "tournaments": [
+            {
+                "name": "LEC Spring 2021",
+                "viewers": "831198"
+            },
+            {
+                "name": "LEC Summer 2020",
+                "viewers": "1002178"
+            },
+            {
+                "name": "EU Community Showdown 2020",
+                "viewers": "1870"
+            },
+            {
+                "name": "LEC Spring 2020",
+                "viewers": "817397"
+            },
+            {
+                "name": "Neosurf Cup 2020",
+                "viewers": "3263"
+            },
+            {
+                "name": "LEC Summer 2019",
+                "viewers": "841147"
+            },
+            {
+                "name": "LEC Spring 2019",
+                "viewers": "477666"
+            },
+            {
+                "name": "EU Regional Finals 2018",
+                "viewers": "234636"
+            },
+            {
+                "name": "EU LCS Summer 2018",
+                "viewers": "488729"
+            },
+            {
+                "name": "EU LCS Spring 2018",
+                "viewers": "546109"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "SK Gaming",
+        "winnings": "AMD•Mercedes-Benz•DeutscheTelekom•Nike•EPOS•ARAG•HYLOEYECARE•WesternDigital•KrombacherShowall",
+        "country": "Germany",
+        "sponsors": [
+            "AMD",
+            "Mercedes-Benz",
+            "Deutsche Telekom",
+            "Nike",
+            "EPOS",
+            "ARAG",
+            "HYLO EYE CARE",
+            "Western Digital",
+            "Krombacher"
+        ],
+        "tournaments": [
+            {
+                "name": "LEC Spring 2021",
+                "viewers": "831198"
+            },
+            {
+                "name": "LEC Summer 2020",
+                "viewers": "1002178"
+            },
+            {
+                "name": "EU Community Showdown 2020",
+                "viewers": "1870"
+            },
+            {
+                "name": "LEC Spring 2020",
+                "viewers": "817397"
+            },
+            {
+                "name": "LEC Summer 2019",
+                "viewers": "841147"
+            },
+            {
+                "name": "LEC Spring 2019",
+                "viewers": "477666"
+            },
+            {
+                "name": "ESL Meisterschaft Winter 2018",
+                "viewers": "21906"
+            },
+            {
+                "name": "Premier Tour Winter 2019 Vienna",
+                "viewers": "15455"
+            },
+            {
+                "name": "Premier Tour Winter 2018 Bern",
+                "viewers": "13129"
+            },
+            {
+                "name": "Summoner's Inn League Season 0.5",
+                "viewers": "13276"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Astralis",
+        "winnings": "LogitechG•Audi•OmenbyHP•TurtleBeach•SecretLab•Unibet•JACK&JONES•CS.MONEY•GLHF.gg•LunarShowall",
+        "country": "Europe",
+        "sponsors": [
+            "Logitech G",
+            "Audi",
+            "Omen by HP",
+            "Turtle Beach",
+            "SecretLab",
+            "Unibet",
+            "JACK & JONES",
+            "CS.MONEY",
+            "GLHF.gg",
+            "Lunar"
+        ],
+        "tournaments": [
+            {
+                "name": "LEC Spring 2021",
+                "viewers": "831198"
+            },
+            {
+                "name": "LEC Summer 2020",
+                "viewers": "1002178"
+            },
+            {
+                "name": "EU Community Showdown 2020",
+                "viewers": "1870"
+            },
+            {
+                "name": "LEC Spring 2020",
+                "viewers": "817397"
+            },
+            {
+                "name": "LEC Regional Finals 2019",
+                "viewers": "272228"
+            },
+            {
+                "name": "LEC Summer 2019",
+                "viewers": "841147"
+            },
+            {
+                "name": "Rift Rivals 2019 NA-EU",
+                "viewers": "318708"
+            },
+            {
+                "name": "LEC Spring 2019",
+                "viewers": "477666"
+            },
+            {
+                "name": "EU Masters Spring 2018",
+                "viewers": "151763"
+            },
+            {
+                "name": "LPL Spring Playoffs 2018",
+                "viewers": "95659"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Team Vitality",
+        "winnings": "300951",
+        "country": "France",
+        "sponsors": [
+            "CORSAIR",
+            "Renault Sport",
+            "Adidas",
+            "Quersus",
+            "Orange",
+            "AFFLELOU"
+        ],
+        "tournaments": [
+            {
+                "name": "LEC Spring 2021",
+                "viewers": "831198"
+            },
+            {
+                "name": "LEC Summer 2020",
+                "viewers": "1002178"
+            },
+            {
+                "name": "LEC Spring 2020",
+                "viewers": "817397"
+            },
+            {
+                "name": "LEC Summer 2019",
+                "viewers": "841147"
+            },
+            {
+                "name": "LEC Spring 2019",
+                "viewers": "477666"
+            },
+            {
+                "name": "2018 World Championship",
+                "viewers": "2050475"
+            },
+            {
+                "name": "EU LCS Summer 2018",
+                "viewers": "488729"
+            },
+            {
+                "name": "EU LCS Spring 2018",
+                "viewers": "546109"
+            },
+            {
+                "name": "EU LCS Summer 2017",
+                "viewers": "363892"
+            },
+            {
+                "name": "EU LCS Spring 2017",
+                "viewers": "397839"
+            }
+        ],
+        "socials": []
+    },
+    {
+        "team": "Excel Esports",
+        "winnings": "HyperX•Chillblast",
+        "country": "Europe",
+        "sponsors": [
+            "HyperX",
+            "Chillblast"
+        ],
+        "tournaments": [
+            {
+                "name": "LEC Spring 2021",
+                "viewers": "831198"
+            },
+            {
+                "name": "LEC Summer 2020",
+                "viewers": "1002178"
+            },
+            {
+                "name": "EU Community Showdown 2020",
+                "viewers": "1870"
+            },
+            {
+                "name": "LEC Spring 2020",
+                "viewers": "817397"
+            },
+            {
+                "name": "Neosurf Cup 2020",
+                "viewers": "3263"
+            },
+            {
+                "name": "LEC Summer 2019",
+                "viewers": "841147"
+            },
+            {
+                "name": "LEC Spring 2019",
+                "viewers": "477666"
+            },
+            {
+                "name": "FoC 2018 Summer Grand Final",
+                "viewers": "2935"
+            },
+            {
+                "name": "EU Masters Spring 2018",
+                "viewers": "151763"
+            },
+            {
+                "name": "LPL Spring Playoffs 2018",
+                "viewers": "95659"
+            }
+        ],
+        "socials": []
+    }
+]
